@@ -13,3 +13,6 @@ Automated Security: Prevents "tailgating" or entry by non-members, reducing reve
 Installation Instructions: Instructions on how to clone and run the app locally (for others or future you).
 
 Setup: Instructions for setting up IoT devices and cloud services.
+
+Contributors:
+rcpinca.it@tip.edu.ph
